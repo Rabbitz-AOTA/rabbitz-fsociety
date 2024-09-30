@@ -1,7 +1,5 @@
 # rabbitz-fsociety
 
-# rabbitz-fsociety
-
 **fsociety** is a comprehensive multi-toolkit designed for cybersecurity professionals and enthusiasts. This toolkit combines powerful open-source tools for penetration testing, network analysis, and vulnerability assessment into one easy-to-use package. Whether you are conducting network scans, testing web application security, or performing password recovery, fsociety provides the essential tools needed for effective security assessments.
 
 ## Tools Included
