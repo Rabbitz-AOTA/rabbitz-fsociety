@@ -57,7 +57,7 @@ XX   MMMMd   ''''hhhhh       odddo          obbbo        hhhh''''   dMMMM   XX
 XX   MMMMMd             'hMMMMMMMMMMddddddMMMMMMMMMMh'             dMMMMM   XX
 XX   MMMMMMd              'hMMMMMMMMMMMMMMMMMMMMMMh'              dMMMMMM   XX
 XX   MMMMMMM-               ''ddMMMMMMMMMMMMMMdd''               -MMMMMMM   XX
-XX   MMMMMMMM                   '::dRABBITZd::'                   MMMMMMMM   XX
+XX   MMMMMMMM                   '::-RABBITZ-::'                   MMMMMMMM   XX
 XX   MMMMMMMM-                                                  -MMMMMMMM   XX
 XX   MMMMMMMMM                                                  MMMMMMMMM   XX
 XX   MMMMMMMMMy                                                yMMMMMMMMM   XX
@@ -70,6 +70,7 @@ XX   MMMMMMMMMMMMMMMMMMMMNo         oAOTAo         oNMMMMMMMMMMMMMMMMMMMM   XX
 XX                                                                          XX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                               HACK THE PLANET!!!
 """
 
 # Define the toolkit functions
